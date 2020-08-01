@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 ###  📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Overlord BlackHat 2020](/posts/overlord-blackhat-2020/)
+- [eWPTXv2 Review](/posts/ewptx-version2-review/)
+- [RoadWarrior](/posts/roadwarrior/)
+- [My Setup Monstrosity](/posts/my-setup-monstrosity/)
+- [Sp00fer](/posts/sp00fer/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
