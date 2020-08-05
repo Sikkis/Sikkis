@@ -12,11 +12,11 @@ I am a professional penetration tester at [QSecure][qsecure] and a member of the
 
 ###  📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Overlord BlackHat 2020](/posts/overlord-blackhat-2020/)
-- [eWPTXv2 Review](/posts/ewptx-version2-review/)
-- [RoadWarrior](/posts/roadwarrior/)
-- [My Setup Monstrosity](/posts/my-setup-monstrosity/)
-- [Sp00fer](/posts/sp00fer/)
+- [Overlord BlackHat 2020](https://blog.qsecure.com.cy/posts/overlord-blackhat-2020/)
+- [eWPTXv2 Review](https://blog.qsecure.com.cy/posts/ewptx-version2-review/)
+- [RoadWarrior](https://blog.qsecure.com.cy/posts/roadwarrior/)
+- [My Setup Monstrosity](https://blog.qsecure.com.cy/posts/my-setup-monstrosity/)
+- [Sp00fer](https://blog.qsecure.com.cy/posts/sp00fer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
