@@ -11,12 +11,14 @@ I am a professional penetration tester at [QSecure][qsecure] and a member of the
 ---
 
 ###  📕 Blog posts
+<!-- BLOG-POST-LIST:START -->
 - [Traditional Signature Based Antivirus Evasion Tests](https://blog.qsecure.com.cy/posts/traditional-signature-based-antivirus-evasion-tests/)
 - [Overlord BlackHat 2020](https://blog.qsecure.com.cy/posts/overlord-blackhat-2020/)
 - [eWPTXv2 Review](https://blog.qsecure.com.cy/posts/ewptx-version2-review/)
 - [RoadWarrior](https://blog.qsecure.com.cy/posts/roadwarrior/)
 - [My Setup Monstrosity](https://blog.qsecure.com.cy/posts/my-setup-monstrosity/)
 - [Sp00fer](https://blog.qsecure.com.cy/posts/sp00fer/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
