@@ -11,6 +11,7 @@ I am a professional penetration tester at [QSecure][qsecure] and a member of the
 ---
 
 ###  📕 Blog posts
+- [Traditional Signature Based Antivirus Evasion Tests](https://blog.qsecure.com.cy/posts/traditional-signature-based-antivirus-evasion-tests/)
 - [Overlord BlackHat 2020](https://blog.qsecure.com.cy/posts/overlord-blackhat-2020/)
 - [eWPTXv2 Review](https://blog.qsecure.com.cy/posts/ewptx-version2-review/)
 - [RoadWarrior](https://blog.qsecure.com.cy/posts/roadwarrior/)
@@ -26,3 +27,4 @@ I am a professional penetration tester at [QSecure][qsecure] and a member of the
 [qsecure]: https://qsecure.com.cy/
 [twitter]: https://twitter.com/S1KKIS
 [linkedin]: https://www.linkedin.com/in/vasilissikkis/
+
