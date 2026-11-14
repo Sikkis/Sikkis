@@ -10,8 +10,6 @@ I am a professional penetration tester at [QSecure][qsecure] and a member of the
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sikkis&show_icons=true&hide_border=true" />
-
 [website]: https://blog.qsecure.com.cy/
 [cybermouflons]: https://cybermouflons.com/
 [qsecure]: https://qsecure.com.cy/
